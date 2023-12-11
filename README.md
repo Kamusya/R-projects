@@ -1,2 +1,2 @@
 # R-projects
-This is a road the beginner in R.
+This is a road of the beginner in R.
